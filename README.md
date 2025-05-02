@@ -19,23 +19,36 @@ Proje, veri ön işleme, görselleştirme, ve çeşitli makine öğrenmesi model
 
 # 📈 Görselleştirmeler:
 -Pie Chart
--Bar Plot 
+
+-Bar Plot
+
 -Line Plot
+
 -Boxplot
+
 -Scatter Plot
 
 # 🧹 Veri Temizleme ve Dönüştürme:
 -Eksik Veriler: Eksik veriler kontrol edilip uygun yöntemlerle dolduruldu.
+
 -Kategori Verilerinin Sayısallaştırılması: Kategorik veriler, modellerde kullanılmak üzere sayısal verilere dönüştürüldü.
+
 -Aykırı Değerlerin Düzeltilmesi: Aykırı değerler belirlendi ve uygun şekilde ele alındı.
+
 -Veri Ölçekleme: Özelliklerin ölçeklenmesi ile modelin daha doğru sonuçlar vermesi sağlandı.
+
 
 # 🧪 Kullanılan Kütüphaneler:
 -Pandas: Veri işleme
+
 -Numpy: Matematiksel hesaplamalar
+
 -Matplotlib, seaborn: Görselleştirme
+
 -Scikit-learn: Makine öğrenmesi modelleri ve metrikler
+
 -XGBoost: XGBoost modelini uygulamak için
+
 -RandomForestRegressor: Random Forest regresyon modeli için
 
 
